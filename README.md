@@ -1,0 +1,1 @@
+# kinopoisk_auto_tests
